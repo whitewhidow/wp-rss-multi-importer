@@ -771,7 +771,7 @@ foreach($myarray as $items) {
 	
 
 
-	$thisContent .= $thisExcerpt;
+	$thisContent .= '<blockquote>'.$thisExcerpt;
 
 
 	if ($addSource==1){
