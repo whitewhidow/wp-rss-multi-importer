@@ -10,16 +10,16 @@
         "type": "package",
         "package": {
             "name": "wp-plugins/wp-rss-multi-importer",
-            "version": "master",
+            "version": "stable",
             "source": {
                 "url": "https://github.com/wp-plugins/wp-rss-multi-importer.git",
                 "type": "git",
-                "reference": "stable-master"
+                "reference": "master"
             }
         }
     }],
     "require": {
-        "wp-plugins/wp-rss-multi-importer": "master"
+        "wp-plugins/wp-rss-multi-importer": "stable"
     }
     
 }
