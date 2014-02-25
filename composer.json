@@ -19,7 +19,7 @@
         }
     }],
     "require": {
-        "wp-plugins/wp-rss-multi-importer": "master"
+        "wp-plugins/wp-rss-multi-importer": "dev-master"
     }
     
 }
