@@ -17,6 +17,6 @@
     }
     ],
     "require": {
-        "l3pp4rd/doctrine-extensions": "master"
+        "wp-plugins/wp-rss-multi-importer": "master"
     }
 }
