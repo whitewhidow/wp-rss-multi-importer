@@ -1,5 +1,22 @@
 {
     "name": " whitewhidow/wp-rss-multi-importer",
     "description": "modified importer",
-    "homepage": "https://github.com/whitewhidow/wp-rss-multi-importer"
+    "homepage": "https://github.com/whitewhidow/wp-rss-multi-importer",
+    "repositories": [
+    {
+        "type":"package",
+        "package": {
+          "name": "wp-plugins/wp-rss-multi-importer",
+          "version":"master",
+          "source": {
+              "url": "https://github.com/wp-plugins/wp-rss-multi-importer.git",
+              "type": "git",
+              "reference":"master"
+            }
+        }
+    }
+    ],
+    "require": {
+        "l3pp4rd/doctrine-extensions": "master"
+    }
 }
