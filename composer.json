@@ -10,7 +10,7 @@
         "type": "package",
         "package": {
             "name": "wp-plugins/wp-rss-multi-importer",
-            "version": "stable",
+            "version": "master",
             "source": {
                 "url": "https://github.com/wp-plugins/wp-rss-multi-importer.git",
                 "type": "git",
