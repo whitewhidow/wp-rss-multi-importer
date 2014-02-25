@@ -14,7 +14,7 @@
             "source": {
                 "url": "https://github.com/wp-plugins/wp-rss-multi-importer.git",
                 "type": "git",
-                "reference": "master"
+                "reference": "stable-master"
             }
         }
     }],
