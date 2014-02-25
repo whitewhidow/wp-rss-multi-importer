@@ -3,5 +3,23 @@
     "description": "modified importer!",
     "version": "0.0.1",
     "type": "project",
-    "homepage": "http://branchbit.be"
+    "homepage": "http://branchbit.be",
+    
+    
+    "repositories": [{
+        "type": "package",
+        "package": {
+            "name": "wp-plugins/wp-rss-multi-importer",
+            "version": "dev-master",
+            "source": {
+                    "url": "https://github.com/wp-plugins/wp-rss-multi-importer.git",
+                "type": "git",
+            "reference": "dev-master"
+            }
+        }
+    }],
+    "require": {
+        "wp-plugins/wp-rss-multi-importer": "dev-master"
+    }
+    
 }
