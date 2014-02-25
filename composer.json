@@ -18,8 +18,5 @@
     ],
     "require": {
         "wp-plugins/wp-rss-multi-importer": "master"
-    },
-    "autoload": {
-        "psr-0": { "wp-plugins\\": "wp-plugins/" }
     }
 }
